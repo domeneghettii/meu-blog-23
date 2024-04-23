@@ -5,3 +5,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: rgb (240, 26, 235);
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+}
